@@ -15,7 +15,7 @@
       "examInfo": "考试时长120分钟，总分100分，60分及格",
       "storageKey": "fund_practice_fund-law_answers",
       "dataFile": "./data/fund-law.json",
-      "total": 0
+      "total": 140
     },
     {
       "id": "fund-base",
@@ -27,7 +27,7 @@
       "examInfo": "考试时长120分钟，总分100分，60分及格",
       "storageKey": "fund_practice_fund-base_answers",
       "dataFile": "./data/fund-base.json",
-      "total": 0
+      "total": 140
     },
     {
       "id": "fund-private",
@@ -39,7 +39,7 @@
       "examInfo": "考试时长120分钟，总分100分，60分及格",
       "storageKey": "fund_practice_fund-private_answers",
       "dataFile": "./data/fund-private.json",
-      "total": 0
+      "total": 140
     }
   ]
 }
