@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "app": "基金从业资格刷题网站",
+    "version": "1.0.0",
+    "updatedAt": "2026-04-15"
+  },
+  "subjects": [
+    {
+      "id": "fund-law",
+      "name": "基金法律法规、职业道德与业务规范",
+      "shortName": "科目一",
+      "icon": "⚖️",
+      "cardClass": "card-law",
+      "description": "基金行业基本法律法规、职业道德准则、基金销售规范、合规运营与监督管理等",
+      "examInfo": "考试时长120分钟，总分100分，60分及格",
+      "storageKey": "fund_practice_fund-law_answers",
+      "dataFile": "./data/fund-law.json",
+      "total": 0
+    },
+    {
+      "id": "fund-base",
+      "name": "证券投资基金基础知识",
+      "shortName": "科目二",
+      "icon": "📈",
+      "cardClass": "card-base",
+      "description": "基金分类与特点、基金估值核算、基金投资交易、基金收益分配、风险收益特征、基金组合管理等",
+      "examInfo": "考试时长120分钟，总分100分，60分及格",
+      "storageKey": "fund_practice_fund-base_answers",
+      "dataFile": "./data/fund-base.json",
+      "total": 0
+    },
+    {
+      "id": "fund-private",
+      "name": "私募股权投资基金基础知识",
+      "shortName": "科目三",
+      "icon": "🏢",
+      "cardClass": "card-private",
+      "description": "私募股权投资基金的募资、投资、管理、退出全流程运作，以及合规与风险控制等",
+      "examInfo": "考试时长120分钟，总分100分，60分及格",
+      "storageKey": "fund_practice_fund-private_answers",
+      "dataFile": "./data/fund-private.json",
+      "total": 0
+    }
+  ]
+}
