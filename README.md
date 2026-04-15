@@ -28,7 +28,7 @@
 
 ## 🎬 快速开始
 
-👉 **在线体验（待部署）**
+👉 **[在线体验](https://slxr925.github.io/fund-practice/)**
 
 ---
 
